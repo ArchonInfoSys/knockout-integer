@@ -22,7 +22,7 @@
     "eslint-plugin-filenames": "1.x"
   },
   "peerDependencies": {
-    "knockout": "3.x.0"
+    "knockout": "3.x"
   },
   "dependencies": {
     "accounting": "0.x"
